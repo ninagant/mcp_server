@@ -1,0 +1,7 @@
+mcp[cli]
+anthropic
+fastapi
+uvicorn
+python-dotenv
+httpx>=0.24.0
+starlette
